@@ -25,3 +25,5 @@ The workflow must take a precise account of the documents processed in order to 
 documents for the company's accounting because the customer will be invoiced at the volume of
 service consumed. A summary document will be produced (format to be defined) at the
 request. <br>
+
+## Utilisation
