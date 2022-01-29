@@ -27,3 +27,13 @@ service consumed. A summary document will be produced (format to be defined) at 
 request. <br>
 
 ## Utilisation
+
+To be able to allow the script to create the pdf of the pele(s)-mêle(s) with the blurred images provided, you will have to follow these steps to ensure its proper functioning:
+
+- download the deface file
+- insert your images to be blurred in the images folder
+- open a terminal in the deface folder
+- enter the command chmod +x start.sh
+- to finish enter the command ./start.sh
+
+you will be able to observe the result in the folder which will be named work
